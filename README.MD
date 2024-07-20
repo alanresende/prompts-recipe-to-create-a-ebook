@@ -22,7 +22,9 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | crie um título de ebook sobre o tema de league of legends, o ebook é do nicho de como jogar bem uma partida, mais especificamente na posição de adc. O título deve ser épico e curto, e pode ter duplo sentido com a posição escolhida (adc ou atirador, em português). Me liste 5 variações de títulos.                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook , com foco em jogar como adc no league of legends, listando as principais recomendações em cada fase do jogo 
+{REGRAS} 
+Utilize como capítulos as fases da partida, que são 1 picks e bans, 2 fase de rotas, 3 mid game e 4 late game |
 
 
 Loenardo.Ai：
